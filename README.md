@@ -1,2 +1,2 @@
 # unity-chrome-dino-game
- A simple Google Chrome's dinosaur game replica in Unity (2D)
+ I have created a replica of the popular Google Dinosaur game using Unity. This project recreates the classic endless runner game where the player controls a dinosaur, navigating through a desert landscape, avoiding obstacles, and trying to achieve the highest score possible. The game features simple yet engaging mechanics, similar to the original game found in Google Chrome's offline mode.
