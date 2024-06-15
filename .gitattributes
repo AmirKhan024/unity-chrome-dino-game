@@ -10,5 +10,9 @@
 # Mark all HLSL files as linguist-vendored
 *.hlsl linguist-vendored=true
 
+# Exclude TextMesh Pro folder from language detection
+TextMesh Pro/* linguist-vendored=true
+
+
 
 
